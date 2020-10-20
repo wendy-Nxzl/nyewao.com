@@ -58,13 +58,13 @@
                 <div class="item_content">
                     <form action="" method="post">
                         <label for="namaDepan">Nama Depan:</label>
-                        <input id="namaDepan" type="text" name="namaDepan" placeholder="Masukan nama depan"/>
+                        <input id="namaDepan" type="text" name="namaDepan" placeholder="Masukan nama depan"/><br>
                         <label for="namaBelakang">Nama Belakang:</label>
-                        <input id="namaBelakang" type="text" name="namaBelakang" placeholder="Masukan nama belakang"/>
+                        <input id="namaBelakang" type="text" name="namaBelakang" placeholder="Masukan nama belakang"/><br>
                         <label for="nomorHP">Nomor Handphone:</label>
-                        <input id="nomorHP" type="text" name="nomorHandphone" placeholder="Masukan Nomor Handphone"/>
+                        <input id="nomorHP" type="text" name="nomorHandphone" placeholder="Masukan Nomor Handphone"/><br>
                         <label for="tanggalLahir"></label>
-                        <input id="tanggalLahir" type="date" name="tanggalLahir"/>
+                        <input id="tanggalLahir" type="date" name="tanggalLahir"/><br>
                         <button type="submit">Kirim</button>
                     </form>
                 </div>
